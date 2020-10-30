@@ -19,3 +19,8 @@
 
 ### You did another pull, don’t tell anyone there’s more :)
 ***
+
+![Gandalf](https://i.imgur.com/qhkIncF.jpg)
+
+### Shhhhh
+***

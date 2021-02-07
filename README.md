@@ -1,6 +1,6 @@
 # Git Pull
 
-![One Does Not Simply...](https://i.imgur.com/1iyfbDr.jpg)
+![Yeah Baby](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fblog.tomgurion.me%2Fimages%2Fgit_meme.jpg&f=1&nofb=1)
 ***
 
 ## A quick walk-through of how to perform the _git pull_ command.
